@@ -34,3 +34,6 @@ main
 # build
 **/dist/**
 /build/
+
+# .aster
+**/.aster/**
